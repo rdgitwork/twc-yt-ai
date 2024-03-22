@@ -4,6 +4,7 @@
 
 TWC-YT-TranscriptAI is an innovative web application designed to enhance the user experience of engaging with YouTube content. By leveraging the YouTube Data API V3, it offers a seamless interface for users to access, search, and interact with YouTube videos, complemented by advanced transcript and AI-driven insights.
 
+
 ## Table of Contents
 
 - [Features](#features)
