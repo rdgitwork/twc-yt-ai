@@ -47,10 +47,5 @@ Creator Name: Rudrakumar Patel
 Project Link: [Coming Soon]
 
 Acknowledgements
-Technologies and tools used in this project:
-
-<p>
-  <img src="https://placeholder.url/react_logo.png" alt="React" width="40" height="40"/> - <a href="https://reactjs.org/">React</a>
-  <img src="https://placeholder.url/npm_logo.png" alt="npm" width="40" height="40"/> - <a href="https://www.npmjs.com/">npm Packages</a>
-  <img src="https://placeholder.url/youtube_data_api_v3_logo.png" alt="YouTube Data API V3" width="40" height="40"/> - <a href="https://developers.google.com/youtube/v3">YouTube Data API V3</a>
-</p>
+React
+YouTube Data API V3
