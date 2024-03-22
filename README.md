@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+TWC-YT-TranscriptAI
+TWC-YT-TranscriptAI is an innovative web application designed to enhance the user experience of engaging with YouTube content. Leveraging the powerful YouTube Data API V3, this application provides a seamless interface for users to access, search, and interact with YouTube videos, complemented by advanced transcript and AI-driven insights.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Features
+Video Search: Utilize the YouTube Data API V3 to search for videos directly within the application.
+Transcripts: Access auto-generated transcripts of videos, making content more accessible and searchable.
+AI Insights: Gain unique insights into video content through AI-driven analysis, including sentiment analysis, keyword extraction, and summary generation.
+Responsive Design: Enjoy a seamless experience across all devices, thanks to a mobile-first design approach.
+User Favorites: Save your favorite videos and transcripts for easy access anytime.
+Getting Started
+To get a local copy up and running, follow these simple steps.
 
-## Available Scripts
+Prerequisites
+npm
+sh
+Copy code
+npm install npm@latest -g
+Installation
+Clone the repo
+sh
+Copy code
+git clone https://github.com/your_username_/TWC-YT-TranscriptAI.git
+Install NPM packages
+sh
+Copy code
+npm install
+Usage
+For a detailed guide on how to use TWC-YT-TranscriptAI, please refer to the Documentation.
 
-In the project directory, you can run:
+Roadmap
+See the open issues for a list of proposed features (and known issues).
 
-### `npm start`
+Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+License
+Distributed under the MIT License. See LICENSE for more information.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Contact
+Creator Name: Rudrakumar Patel
 
-### `npm test`
+Project Link: [Coming Soon]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Acknowledgements
+Technologies and tools used in this project:
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p>
+  <img src="https://placeholder.url/react_logo.png" alt="React" width="40" height="40"/> - <a href="https://reactjs.org/">React</a>
+  <img src="https://placeholder.url/npm_logo.png" alt="npm" width="40" height="40"/> - <a href="https://www.npmjs.com/">npm Packages</a>
+  <img src="https://placeholder.url/youtube_data_api_v3_logo.png" alt="YouTube Data API V3" width="40" height="40"/> - <a href="https://developers.google.com/youtube/v3">YouTube Data API V3</a>
+</p>
